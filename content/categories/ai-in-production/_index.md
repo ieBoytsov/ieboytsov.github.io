@@ -4,7 +4,7 @@ description: "Being an industry practitioner I learnt a lot about how to develop
 image: ai_in_prod_icon.png
 
 # Badge style
-style:
-    background: "#2a9d8f"
-    color: "#fff"
+# style:
+#     background: "#2a9d8f"
+#     color: "#fff"
 ---
