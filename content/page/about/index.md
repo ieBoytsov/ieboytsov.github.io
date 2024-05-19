@@ -12,7 +12,7 @@ Hi, it`s Ilya. I live in Berlin, Germany. I am an AI research engineer with over
 
 ![Sci-pop talk about language models during Science Slam Berlin](science_slam.jpg)
 
-## Career
+## Career 
 
 I am focused on developing production-ready ML/AI applicatons. Currently I work at Wayfair where I am busy with building GenAI solutions for a number of our projects. I love reproducible R&D, high-quality engineering and math. Throughout my career I was lucky to work on impactful projects that required both engineering and research efforts. 
 
