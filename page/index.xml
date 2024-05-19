@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Ilya Boytsov</title><link>https://ieboytsov.github.io/page.html</link><description>Recent content in Pages on Ilya Boytsov</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ieboytsov.github.io/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Archives</title><link>https://ieboytsov.github.io/archives.html</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://ieboytsov.github.io/archives.html</guid><description/></item><item><title>About me</title><link>https://ieboytsov.github.io/about-me.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ieboytsov.github.io/about-me.html</guid><description>&lt;h1 id="intro">Intro
+&lt;/h1>&lt;p>Hi, it`s Ilya. I live in Berlin, Germany. I am an AI research engineer with over 8 YOE in industry. Besides I love engaging in the community activities whether it is public speaking, teaching or just meeting new people. In this blog I am sharing technical notes on AI engineering and research as well as insights from community activities I participate in. Below you can find some facts about my work and hobbies.&lt;/p>
+&lt;p>&lt;img src="../about-me/science_slam.jpg"
+width="4658"
+height="3500"
+srcset="../about-me/science_slam_hucd3a2ae040e193b4980d6001d7a5f8be_1990460_480x0_resize_q75_box.jpg 480w, ../about-me/science_slam_hucd3a2ae040e193b4980d6001d7a5f8be_1990460_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Sci-pop talk about language models during Science Slam Berlin"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>&lt;/p>
+&lt;h2 id="career">Career
+&lt;/h2>&lt;p>I am focused on developing production-ready ML/AI applicatons. Currently I work at Wayfair where I am busy with building GenAI solutions for a number of our projects. I love reproducible R&amp;amp;D, high-quality engineering and math. Throughout my career I was lucky to work on impactful projects that required both engineering and research efforts.&lt;/p>
+&lt;h2 id="community">Community
+&lt;/h2>&lt;p>In 2023 I co-founded &lt;a class="link" href="https://www.meetup.com/street-smart-ai-berlin-meetup/" target="_blank" rel="noopener"
+>Street Smart AI&lt;/a> - a series of in-person meetups for industry ML practitioners in Berlin. I also love teaching. One of my favourite educational projects is the &lt;a class="link" href="https://www.llmsforsocialsciene.dev/" target="_blank" rel="noopener"
+>LLM summer school&lt;/a> at the University of Oxford where I led the practical part of the workshop. You can read more about my public activities in the &amp;ldquo;talks&amp;rdquo; section of the website.&lt;/p>
+&lt;h2 id="science-and-travel">Science and travel
+&lt;/h2>&lt;p>In my free time I love joining expeditions to far away destinations. Sometimes I travel with scientists for specific research missions or join teams of enthusiasts to explore particular cultural aspects of interesting places.&lt;/p>
+&lt;p>I was on top of volcanoes on the Kamchatka Peninsula which is a Russian far east region. I survived a week in Amazon jungles of Ecuador and was travelling together with a scientific group to study glaciers of the Elbrus mountain.&lt;/p>
+&lt;p>&lt;img src="../about-me/kamchatka.jpg"
+width="3000"
+height="2000"
+srcset="../about-me/kamchatka_hu9ee480d5c92a3d4d887b80e2edd8184b_3689058_480x0_resize_q75_box.jpg 480w, ../about-me/kamchatka_hu9ee480d5c92a3d4d887b80e2edd8184b_3689058_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Road to the Volcano, Kamchatka"
+class="gallery-image"
+data-flex-grow="150"
+data-flex-basis="360px"
+> &lt;img src="../about-me/amazonia.jpeg"
+width="1280"
+height="853"
+srcset="../about-me/amazonia_hu38581199d0c55e152d935712c8624c80_216244_480x0_resize_q75_box.jpeg 480w, ../about-me/amazonia_hu38581199d0c55e152d935712c8624c80_216244_1024x0_resize_q75_box.jpeg 1024w"
+loading="lazy"
+alt="Somewhere inside the Amazonian rainforest"
+class="gallery-image"
+data-flex-grow="150"
+data-flex-basis="360px"
+>&lt;/p>
+&lt;h2 id="acting-and-improv">Acting and improv
+&lt;/h2>&lt;p>Last but not least from time to time I take part in acting / improv classes, workshops, camps. The initial goal was to improve my public speaking skills for conference talks but later I discovered I enjoy it as independent activity. For example, in April 2024 I attended an art camp in Norway, Lofoten islands. The combination of spectacular nature, open minded people and creative activities made this trip truly legendary! One day I went to a fishing village to speak with locals where I recorded a short documentary film. You can watch it &lt;a class="link" href="https://youtu.be/KXiPtvKhK3E" target="_blank" rel="noopener"
+>here&lt;/a>.&lt;/p>
+&lt;p>&lt;img src="../about-me/lofoten.jpg"
+width="3520"
+height="1980"
+srcset="../about-me/lofoten_hud32e22c4a56456cc935df723747f7d98_1044459_480x0_resize_q75_box.jpg 480w, ../about-me/lofoten_hud32e22c4a56456cc935df723747f7d98_1044459_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Every single picture made in Lofoten looks like a piece of art."
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;h2 id="collaboration">Collaboration
+&lt;/h2>&lt;p>I enjoy meeting new people and taking part in interesting projects. You can invite me to speak on your event or to ask for consultation regarding your research or company project. Sometimes I help people to prepare for coding and ML system design interviews. Besides, I enjoy knowledge exchange: if you are also an applied ML practitioner, I am happy to meet for a coffee chat and to speak about success and fails in our field!&lt;/p></description></item><item><title>Contact</title><link>https://ieboytsov.github.io/contact.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ieboytsov.github.io/contact.html</guid><description>&lt;p>Feel free to reach me via ilyaboytsov1805 &amp;ldquo;at&amp;rdquo; gmail &amp;ldquo;dot&amp;rdquo; com.&lt;/p></description></item><item><title>Search</title><link>https://ieboytsov.github.io/search.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ieboytsov.github.io/search.html</guid><description/></item><item><title>Talks</title><link>https://ieboytsov.github.io/talks.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ieboytsov.github.io/talks.html</guid><description>&lt;h1 id="public-activities">Public activities
+&lt;/h1>&lt;h2 id="2024">2024
+&lt;/h2>&lt;ul>
+&lt;li>&amp;ldquo;Towards a Production-Ready Customer Feedback LLM: Leveraging LLM Evals for Advanced Feedback Analysis&amp;rdquo;, a technical talk during &amp;ldquo;LLM evals in practice&amp;rdquo; seminar hosted by Arize AI. A case study on real production data from one of my GenAI projects at Wayfair. &lt;a class="link" href="https://20083050.fs1.hubspotusercontent-na1.net/hubfs/20083050/Towards%20Production-Ready%20Customer%20Feedback%20LLM.pdf" target="_blank" rel="noopener"
+>Slides&lt;/a>,
+&lt;a class="link" href="https://www.youtube.com/watch?v=WM4OzrPO8LE" target="_blank" rel="noopener"
+>recording&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;h2 id="2023">2023
+&lt;/h2>&lt;ul>
+&lt;li>
+&lt;p>&lt;a class="link" href="https://www.llmsforsocialsciene.dev/" target="_blank" rel="noopener"
+>LLMs summer school at the University of Oxford&lt;/a>. Led the practical part of the 3 day workshop for computational social scientists aimed to boost social-economic research with usage of language models. &lt;a class="link" href="https://github.com/antndlcrx/oxford-llms-workshop" target="_blank" rel="noopener"
+>Materials&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&amp;ldquo;Mastering the art of chatting with AI&amp;rdquo; at the Science Slam Berlin. A 10 min talk for non-technical audience in the format of &amp;ldquo;scientific stand-up&amp;rdquo;. &lt;a class="link" href="https://www.youtube.com/watch?v=6xozBoWT-ks&amp;amp;t=4052s" target="_blank" rel="noopener"
+>Recording&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&amp;ldquo;How to build a high-quality real-time recommender system&amp;rdquo; at the Street Smart AI meetup in Berlin. My talk about past experience with recommender systems, covers system design of advanced RecSys pipelines and pitfalls I met on my way. &lt;a class="link" href="https://docs.google.com/presentation/d/15Rj9YybvJsMb27_cDPZ8bxhheJD5K_wargRNpeQ_NIY/edit?usp=drive_link" target="_blank" rel="noopener"
+>Slides&lt;/a>, &lt;a class="link" href="https://drive.google.com/file/d/1iAeCejMkQXSRWvChLlC8B2upQmyigeHy/view?usp=drive_link" target="_blank" rel="noopener"
+>recording&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Gave an interview for the Neural Networks episode at one of the most well known sci pop youtube channels in Russia. The episode has almost 200k views. &lt;a class="link" href="https://www.youtube.com/watch?v=VqC4YTyFBpg" target="_blank" rel="noopener"
+>Recording&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="2022">2022
+&lt;/h2>&lt;ul>
+&lt;li>&amp;ldquo;Machine Learning and personalisation in the Search Engine of Yandex Auto.ru&amp;rdquo;. Insights from my experience while working at Yandex during DataFest conference hosted by ODS community. The talk was included in the best videos award. &lt;a class="link" href="https://www.youtube.com/watch?v=5wv26h2ridM&amp;amp;list=PLTlO6nV_TaGBB3hMETtFkWMkniDbLYaao&amp;amp;index=19" target="_blank" rel="noopener"
+>Recording&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;h2 id="2021">2021
+&lt;/h2>&lt;ul>
+&lt;li>Publication &amp;ldquo;NLP analysis of Russian School Principals’ Beliefs about Digital Competences of Educational Process’ Participants.&amp;rdquo; A collaboration with social scientists where I led the data science part of the project while I was a PHD student at the Higher School of Economics, Moscow, Russia. &lt;a class="link" href="https://vo.hse.ru/article/view/15815" target="_blank" rel="noopener"
+>Paper&lt;/a>, we also presented the work in the NLP section of the DataFest 2021 conference. &lt;a class="link" href="https://www.youtube.com/watch?v=thzgvuA3X-Q" target="_blank" rel="noopener"
+>Recording&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;h2 id="2019">2019
+&lt;/h2>&lt;ul>
+&lt;li>&amp;ldquo;AutoML for user segmentation: how to match millions of users with hundreds of segments every day&amp;rdquo; at the Data Science Conference 5.0 in Belgrade, Serbia. My first onsite talk for the international audience. Probably this was the moment I realised I enjoy public speaking. &lt;a class="link" href="https://www.slideshare.net/Insitute_of_Contemporary_Sciences/automl-for-user-segmentation-how-to-match-millions-of-users-with-hundreds-of-segments-every-day" target="_blank" rel="noopener"
+>Slides&lt;/a>.&lt;/li>
+&lt;/ul></description></item></channel></rss>
