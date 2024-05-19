@@ -8,7 +8,7 @@ menu:
 ---
 # Intro
 
-Hi, it`s Ilya. I live in Berlin, Germany. I am an AI research engineer with over 8 YOE in industry. Besides I love engaging in the community activities whether it is public speaking, teaching or just meeting new people. In this blog I am sharing technical notes on AI engineering and research as well as insights from community activities I participate in. Below you can find some facts about my work and hobbies.
+Hi, it`s Ilya. I live in Berlin, Germany. I am an AI research engineer with over 8 YOE in industry. Besides I love engaging in the community activities whether it is public speaking, teaching or just meeting new people. In this blog I am sharing technical notes on AI engineering and research as well as insights from community activities I participate in. Below you can find some facts about my work and hobbies. 
 
 ![Sci-pop talk about language models during Science Slam Berlin](science_slam.jpg)
 
