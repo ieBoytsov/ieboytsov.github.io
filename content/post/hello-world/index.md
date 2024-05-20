@@ -1,6 +1,5 @@
 ---
-title: "Soon here will be the first post :)"
-date: 2024-05-11
+title: "Soon here will be the first post about AI in production:)"
 categories:
     - AI in production
 ---
