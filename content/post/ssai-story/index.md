@@ -74,7 +74,7 @@ In order to understand what topic directions we should prioritize in future, we 
 * Educational talks (career advice, live coding, interview tips)
 * Fail conf (cases where AI didn't work and learnings from it)
 
-![](analysis_by_groups.png)
+![Click the picture to zoom in](analysis_by_groups.png)
 
 According to aggregated results, ML and software engineers are less interested in the “fail conf” format (50% and 44% respectively) in comparison with data scientists and analysts (75% and 70% respectively). 71% of students are interested in formats related to career and interview tips. Overall the most popular category is about ML applications with the focus on business impact. A number of people suggested their own topics related e.g. to AI in startups or AI for social good. We are planning to use these results to design future events.
 
