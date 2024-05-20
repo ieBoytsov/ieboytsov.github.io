@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://ieboytsov.github.io/ieboytsov.github.io/"
+baseurl = "https://ieboytsov.github.io/"
 languageCode = "en-us"
 paginate = 5
 title = "Ilya Boytsov"
