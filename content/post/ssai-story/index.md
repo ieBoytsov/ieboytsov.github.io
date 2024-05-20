@@ -2,7 +2,7 @@
 title: "A story of Street Smart AI Meetup"
 description: Sharing the experience of building the applied AI community in Berlin.
 slug: street-smart-ai-metup
-date: 2024-05-11
+date: 2024-05-20
 image: logo-big.png
 categories:
     - Community and Education
@@ -40,7 +40,7 @@ Looking back today we agree on the importance of the first event on our decision
 
 After the initial meetup several people reached out and told us they would like to be a speaker too. Also, there were a number of company representatives who wanted to host us. We were happy to discover there was a demand from both sides. Since our first event in March 2023, we've hosted a series of six in-person gatherings at five different venues across Berlin. With each event attracting over 100 attendees, our community has grown steadily. Featuring a diverse lineup of speakers from companies such as Google, Amazon AWS, Zalando, Wayfair and others, we've curated a range of talks spanning various facets of AI application. All presentations, including slides and videos, are available [here](https://drive.google.com/drive/folders/1HvbNthmyYC1G278qe2DDZwwrVaDvXrRa?usp=sharing). Our most recent event was held at the Google Berlin office.
 
-<img src="event_6.jpeg">
+![](event_6.jpeg)
 
 There is a lot to tell about what happens behind the scenes. Below we want to share our organizing experience, specifically:
 * how we work with speakers
@@ -61,9 +61,7 @@ When designing a program for the event, we are trying to think what topics may b
 
 Our audience comprises people of different professional backgrounds, as you can see from the graph below:
 
-<p align="center">
-<img src="audience.png" />
-</p>
+![](audience.png)
 
 The “Others” category includes titles like applied linguist, CEO, investor and cloud specialist. It is great to have a community of people with such diverse professional backgrounds. We are also happy to have a significant number of students!
 
@@ -76,7 +74,7 @@ In order to understand what topic directions we should prioritize in future, we 
 * Educational talks (career advice, live coding, interview tips)
 * Fail conf (cases where AI didn't work and learnings from it)
 
-<img src="analysis_by_groups.png">
+![](analysis_by_groups.png)
 
 According to aggregated results, ML and software engineers are less interested in the “fail conf” format (50% and 44% respectively) in comparison with data scientists and analysts (75% and 70% respectively). 71% of students are interested in formats related to career and interview tips. Overall the most popular category is about ML applications with the focus on business impact. A number of people suggested their own topics related e.g. to AI in startups or AI for social good. We are planning to use these results to design future events.
 
@@ -90,12 +88,7 @@ We keep exploring what we can improve as well as thinking about new formats. Ple
 * **Expand Across Europe (and beyond!)**: we will keep making meetups in Berlin, we are also open to organize a meetup in any city in Europe (UK and US can be an option as well). If you or your company would like to host us, we are happy to discuss!
 * **Get to know each other**: we're always open to exploring new collaboration formats and meeting like-minded individuals. If you have any ideas or simply want to connect with us, don't hesitate to reach out. You can directly message and schedule a coffee chat with either [me](https://www.linkedin.com/in/ieboytsov/) or [Evgeny](https://www.linkedin.com/in/evgeny-labzin/). We are excited to hear from you!
 
-<p align="center">
-<img src="galapagos_ssai.jpg" width="400" height="300" alt="Galapagos Islands Image"/>
-<br>
-<em>Check-in on Galapagos islands, maybe one day we make an event here!</em>
-</p>
-
+![](galapagos_ssai.jpg)
 
 ## Acknowledgements
 I want to thank Evgeny Labzin and Maksim Zubok for comprehensive review and refinement of this post.
